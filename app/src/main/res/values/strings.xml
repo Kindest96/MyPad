@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPad</string>
+    <string name="read_mode">Read mode</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="hello">Hello World, FileExplore!</string>
+</resources>
